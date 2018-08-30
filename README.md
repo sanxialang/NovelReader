@@ -3,6 +3,7 @@
 基于"任阅"的改进追书App。
 
 详见原作者项目地址:[任阅](https://github.com/JustWayward/BookReader)
+[NovelReader](https://github.com/newbiechen1024/NovelReader)
 
 # 应用简介
 
